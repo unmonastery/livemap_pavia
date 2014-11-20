@@ -119,7 +119,8 @@ L.Icon.Label.Default = L.Icon.Label.extend({
 	});
 
 	var map = new L.Map('map', {
-		center : new L.LatLng(40.66983,16.59723),
+    //center : new L.LatLng(45.1901,9.1647), // pavia
+     center : new L.LatLng(40.66983,16.59723), // matera
 		zoom : 13,
 		layers : [ cloudmade ],
 		zoomControl : true

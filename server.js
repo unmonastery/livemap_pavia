@@ -51,13 +51,19 @@ var gtfs = Gtfs(process.env.GTFS_PATH || path.join(__dirname,"gtfs",gtfsdir), fu
 			var trips = data.trips;
 			
 			var pushData = {};
-			
+		
+    // debug
+    console.log(data);
+    var count = 0;  
 			for(var i in trips){
 				if(trips.hasOwnProperty(i)){
 					var delta = (trips[i].progressThen - trips[i].progressNow) / 10;
 					//console.log(delta);
 					var pointList = [];
-					
+				
+          count++;
+          //console.log('COUNT', count);
+        //if (count == 3) break;
 					var shapeId = mapData.getShapeIdFromTripId(i);
 					if (!shapeId) continue;
 					
