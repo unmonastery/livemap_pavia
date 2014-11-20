@@ -29,7 +29,7 @@ app.configure(function() {
 	app.set('view engine', 'html');
 });
 
-var gtfsdir = "pavia";
+var gtfsdir = "matera";
 
 var gtfs = Gtfs(process.env.GTFS_PATH || path.join(__dirname,"gtfs",gtfsdir), function(gtfsData){
 

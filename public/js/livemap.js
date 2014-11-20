@@ -110,7 +110,7 @@ L.Icon.Label.Default = L.Icon.Label.extend({
 
 
 
-	var cloudmadeUrl = 'http://{s}.tile.cloudmade.com/3a83164a47874169be4cabc2e8b8c449/43782/256/{z}/{x}/{y}.png';
+	var cloudmadeUrl = 'http://{s}.tile.thunderforest.com/transport/{z}/{x}/{y}.png';
 	var cloudmadeAttribution = '<a href="http://www.ulmapi.de">UlmApi.de</a>, Map data &copy; 2011 OpenStreetMap contributors, Imagery &copy; 2011 CloudMade, Adapted by @Piersoft from GTFS by @SimoneCortesi';
 	var cloudmade = new 	L.TileLayer(
 		cloudmadeUrl, {
@@ -119,7 +119,7 @@ L.Icon.Label.Default = L.Icon.Label.extend({
 	});
 
 	var map = new L.Map('map', {
-		center : new L.LatLng(45.1901,9.1647),
+		center : new L.LatLng(40.66983,16.59723),
 		zoom : 13,
 		layers : [ cloudmade ],
 		zoomControl : true
