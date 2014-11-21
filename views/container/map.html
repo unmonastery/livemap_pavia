@@ -2,8 +2,8 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title><%= pageTitle %> – @Piersoft from UlmApi.de and @SimoneCortesi project</title>
-    
+    <title><%= pageTitle %> – from UlmApi.de </title>
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
     <meta name="description" content="LiveMap">
@@ -17,16 +17,16 @@
     <style>
     .leaflet-marker-iconlabel { z-index: 999999; }
     </style>
-    
+
     <script type="text/javascript" src="/js/jquery.min.js"></script>
-    
+
     <% if (type == "map") { %>
 	<link rel="stylesheet" href="/css/leaflet.css" />
 	<script type="text/javascript" src="/js/leaflet.js"></script>
 	<script type="text/javascript" src="/socket.io/socket.io.js"></script>
 	<script type="text/javascript" src="/js/livemap.js"></script>
     <% } %>
-    
+
   </head>
 
   <body>
@@ -43,7 +43,7 @@
         </div>
       </div>
     </div>
-    
+
     <div id="map" />
 
     	<div id="warning" class="modal">
@@ -52,7 +52,7 @@
           <a onclick="javascript:$('#warning').hide();" class="close" href="#">×</a>
         </div>
         <div class="modal-body">
-          <p>Please keep in mind that Ulm is on UTC+2, and it's not quite Berlin in terms of nightly public transportation service. On this map, we let the night buses run every night instead of only at the weekends, but still... Just check back later during the day to see the magic, or <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Ulmer_M%C3%BCnster">read a bit about that ridiculously ginormous 
+          <p>Please keep in mind that Ulm is on UTC+2, and it's not quite Berlin in terms of nightly public transportation service. On this map, we let the night buses run every night instead of only at the weekends, but still... Just check back later during the day to see the magic, or <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Ulmer_M%C3%BCnster">read a bit about that ridiculously ginormous
           church</a> we have over here.</p>
         </div>
         <div class="modal-footer">
@@ -63,4 +63,3 @@
 
   </body>
 </html>
-    

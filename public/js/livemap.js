@@ -1,10 +1,10 @@
 $(document).ready(function(){
 
-function get_random_color() 
+function get_random_color()
 {
     var letters = '0123456789ABCDEF'.split('');
     var color = '#';
-    for (var i = 0; i < 6; i++ ) 
+    for (var i = 0; i < 6; i++ )
     {
        color += letters[Math.round(Math.random() * 15)];
     }
@@ -84,7 +84,7 @@ L.Icon.Label.Default = L.Icon.Label.extend({
 
 		labelAnchor: new L.Point(0, 40),
 
-       
+
 		//This is the position of the wrapper div. Use this to position icon + label relative to the Lat/Lng.
 		//By default the point of the default icon is anchor
 		wrapperAnchor: new L.Point(10, 41),
@@ -111,7 +111,7 @@ L.Icon.Label.Default = L.Icon.Label.extend({
 
 
 	var cloudmadeUrl = 'http://{s}.tile.thunderforest.com/transport/{z}/{x}/{y}.png';
-	var cloudmadeAttribution = '<a href="http://www.ulmapi.de">UlmApi.de</a>, Map data &copy; 2011 OpenStreetMap contributors, Imagery &copy; 2011 CloudMade, Adapted by @Piersoft from GTFS by @SimoneCortesi';
+	var cloudmadeAttribution = '<a href="http://www.ulmapi.de">UlmApi.de</a>, Map data &copy; 2011 OpenStreetMap contributors, Imagery &copy; 2011 CloudMade';
 	var cloudmade = new 	L.TileLayer(
 		cloudmadeUrl, {
 		maxZoom : 18,
@@ -125,7 +125,7 @@ L.Icon.Label.Default = L.Icon.Label.extend({
 		layers : [ cloudmade ],
 		zoomControl : true
 	});
-	
+
 
 	var StationIcon = L.Icon.extend({options:{
 	    iconUrl: 'images/busstop.png',
@@ -146,7 +146,7 @@ L.Icon.Label.Default = L.Icon.Label.extend({
 	    iconAnchor: new L.Point(10, 10),
 	    popupAnchor: new L.Point(0,-10)
 	}});
-	
+
 	var TramIcon = L.Icon.extend({options:{
 	    iconUrl: 'images/tram_20x20.png',
 	    shadowUrl: null,
@@ -155,12 +155,12 @@ L.Icon.Label.Default = L.Icon.Label.extend({
 	    iconAnchor: new L.Point(10,10),
 	    popupAnchor: new L.Point(0,-10)
 	}});
-	
+
 	var hIcon = new StationIcon();
 	var bIcon = new BusIcon();
 	var tIcon = new TramIcon();
-	
-	
+
+
 	var nulls = function(i) {
 		return (i < 10) ? i = '0' + i : i;
 	};
@@ -168,14 +168,14 @@ L.Icon.Label.Default = L.Icon.Label.extend({
 	var getOffset = function(d) {
 		/* summertime for italy, 2011 */
 		if ((d.getUTCMonth() == 3 && d.getUTCDate() >= 27) ||
-			(d.getUTCMonth() == 10 && d.getUTCDate() <= 30) || 
+			(d.getUTCMonth() == 10 && d.getUTCDate() <= 30) ||
 			(d.getUTCMonth() > 3 && d.getUTCMonth() < 10))
 		    return 2;
-		else 
+		else
 		    return 1;
 	}
 
-	window.setInterval(function() {		
+	window.setInterval(function() {
 		var d = new Date();
 		var offset = getOffset(d);
 
@@ -191,23 +191,23 @@ L.Icon.Label.Default = L.Icon.Label.extend({
 	var d = new Date();
 	var offset = getOffset(d);
 	if (
-		(((d.getUTCHours() + offset) % 24) >= 23 && d.getUTCMinutes() > 30) || 
+		(((d.getUTCHours() + offset) % 24) >= 23 && d.getUTCMinutes() > 30) ||
 		(((d.getUTCHours() + offset) % 24)) < 6){
 		$("#warning").show();
-	}	
-	
+	}
+
 	var stopsLayer;
 	var shapeLayers = {};
 	var trips = {};
-	
+
 	$.ajax({
 	  url: '/data/trips',
 		  success: function(data) {
-		  	trips = data;		  
+		  	trips = data;
 		}
 
 	});
-	
+
 	$.ajax({
 	  url: '/data/stops',
 		  success: function(data) {
@@ -215,15 +215,15 @@ L.Icon.Label.Default = L.Icon.Label.extend({
 			  L.geoJson(data, {
 					pointToLayer: function(f, latlng) { return new L.Marker(latlng, {icon : L.divIcon({ className : 'circle',
                                          iconSize : [ 5, 5 ]}) }).bindPopup('<b>'+f.properties.stop_name+'</b><br>'); }
-			  }).addTo(map);  
+			  }).addTo(map);
 		  }
-	});	
+	});
 
 	$.ajax({
 	  url: '/data/shapes',
 		  success: function(data) {
 		  var myStyle = {};
-		  
+
 		  	for(var i in data){
 myStyle = {
     "color": get_random_color() ,
@@ -233,22 +233,22 @@ myStyle = {
 			  	if (data.hasOwnProperty(i)) {
 
 			  		L.geoJson(data[i], {
-					
+
 style: myStyle
-				  }).addTo(map); 
+				  }).addTo(map);
 			  	}
 		  	}
 		}
 
 	});
-	
 
-	
+
+
 	var socket = io.connect('/');
 
 	var knownTrips = {};
 
-	
+
 	var delayedMoveMarker = function(delay, trip, lat, lon){
 		var marker = knownTrips[trip];
 		setTimeout(function(){
@@ -273,7 +273,7 @@ style: myStyle
 
 
 var markerIcon = bIcon;
-			
+
 		if(trips && trips[trip]){
 						popup = "<b>Bus: "+trips[trip].route_short_name+"</b><br>"+trips[trip].route_long_name;
 						//bus or tram?
@@ -287,17 +287,17 @@ knownTrips[trip] = new L.Marker(new L.LatLng(data[trip][0][1], data[trip][0][0])
 //knownTrips[trip] = new L.Marker(new L.LatLng(data[trip][0][1], data[trip][0][0]), {icon : markerIcon});
 					knownTrips[trip].bindPopup(popup || trip);
 					newMarker = true;
-				}	
+				}
 				for(var i = 0;i<data[trip].length;i++){
 					delayedMoveMarker(1000*i, trip, data[trip][i][1], data[trip][i][0]);
 				}
 				if(newMarker){
-					map.addLayer(knownTrips[trip]);	
-				}				
+					map.addLayer(knownTrips[trip]);
+				}
 			}
 		}
 	});
-	
+
 	if (window.location.hash === '#fullscreen') {
 		removeTopbar();
 	}
