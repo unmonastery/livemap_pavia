@@ -1,100 +1,863 @@
 route_id,service_id,trip_id,trip_headsign,shape_id
-3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882,Via Della Quercia,3652882
-3652883,WW,3652883_WW_Via Della Quercia_Via Fermi_3790270,Via Fermi,3790270
-3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882,Via Della Quercia,3652882
-3652883,SW,3652883_SW_Via Della Quercia_Via Fermi_3790270,Via Fermi,3790270
-3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882,Via Della Quercia,3652882
-3652883,NW,3652883_NW_Via Della Quercia_Via Fermi_3790270,Via Fermi,3790270
-3775826,WW,3775826_WW_Via Frangione_Via Fermi_3302783,Via Fermi,3302783
-3775826,WW,3775826_WW_Via Fermi_Via Frangione_3303207,Via Frangione,3303207
-3775826,SW,3775826_SW_Via Frangione_Via Fermi_3302783,Via Fermi,3302783
-3775826,SW,3775826_SW_Via Fermi_Via Frangione_3303207,Via Frangione,3303207
-3775826,NW,3775826_NW_Via Frangione_Via Fermi_3302783,Via Fermi,3302783
-3775826,NW,3775826_NW_Via Fermi_Via Frangione_3303207,Via Frangione,3303207
-3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093,Piazza Matteotti,3770093
-3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123,Ospedale,3784123
-3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093,Piazza Matteotti,3770093
-3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123,Ospedale,3784123
-3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093,Piazza Matteotti,3770093
-3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123,Ospedale,3784123
-3776283,WW,3776283_WW_Piazza Matteotti_Via Arno_3769799,Via Arno,3769799
-3776283,WW,3776283_WW_Via Arno_Piazza Matteotti_3790876,Piazza Matteotti,3790876
-3776283,SW,3776283_SW_Piazza Matteotti_Via Arno_3769799,Via Arno,3769799
-3776283,SW,3776283_SW_Via Arno_Piazza Matteotti_3790876,Piazza Matteotti,3790876
-3776283,NW,3776283_NW_Piazza Matteotti_Via Arno_3769799,Via Arno,3769799
-3776283,NW,3776283_NW_Via Arno_Piazza Matteotti_3790876,Piazza Matteotti,3790876
-3776284,WW,3776284_WW_Piazza Matteotti_Timmari_3790877,Timmari,3790877
-3776284,WW,3776284_WW_Timmari_Piazza Matteotti_3790878,Piazza Matteotti,3790878
-3776284,SW,3776284_SW_Piazza Matteotti_Timmari_3790877,Timmari,3790877
-3776284,SW,3776284_SW_Timmari_Piazza Matteotti_3790878,Piazza Matteotti,3790878
-3776284,NW,3776284_NW_Piazza Matteotti_Timmari_3790877,Timmari,3790877
-3776284,NW,3776284_NW_Timmari_Piazza Matteotti_3790878,Piazza Matteotti,3790878
-3776285,WW,3776285_WW_via Frangione_Via Fermi_3767630,Via Fermi,3767630
-3776285,WW,3776285_WW_Via Fermi_Via Frangione_3796928,Via Frangione,3796928
-3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929,Via Fermi,3796929
-3776285,SW,3776285_SW_via Frangione_Via Fermi_3767630,Via Fermi,3767630
-3776285,SW,3776285_SW_Via Fermi_Via Frangione_3796928,Via Frangione,3796928
-3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929,Via Fermi,3796929
-3776285,NW,3776285_NW_via Frangione_Via Fermi_3767630,Via Fermi,3767630
-3776285,NW,3776285_NW_Via Fermi_Via Frangione_3796928,Via Frangione,3796928
-3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929,Via Fermi,3796929
-3776286,WW,3776286_WW_Via Fermi_Via Della Quercia_3770563,Via Della Quercia,3770563
-3776286,WW,3776286_WW_Vie Della Quercia_Via Fermi_3790880,Via Fermi,3790880
-3776286,SW,3776286_SW_Via Fermi_Via Della Quercia_3770563,Via Della Quercia,3770563
-3776286,SW,3776286_SW_Vie Della Quercia_Via Fermi_3790880,Via Fermi,3790880
-3776286,NW,3776286_NW_Via Fermi_Via Della Quercia_3770563,Via Della Quercia,3770563
-3776286,NW,3776286_NW_Vie Della Quercia_Via Fermi_3790880,Via Fermi,3790880
-3776287,WW,3776287_WW_Cimitero_Piazza Matteotti_3776273,Piazza Matteotti,3776273
-3776287,WW,3776287_WW_Piazza Matteotti_Cimitero_3776274,Cimitero,3776274
-3776287,SW,3776287_SW_Cimitero_Piazza Matteotti_3776273,Piazza Matteotti,3776273
-3776287,SW,3776287_SW_Piazza Matteotti_Cimitero_3776274,Cimitero,3776274
-3776287,NW,3776287_NW_Cimitero_Piazza Matteotti_3776273,Piazza Matteotti,3776273
-3776287,NW,3776287_NW_Piazza Matteotti_Cimitero_3776274,Cimitero,3776274
-3776288,WW,3776288_WW_Via dei Pesci_Via dei Messapi_3776276,Via dei Messapi,3776276
-3776288,WW,3776288_WW_Via Dante_Via dei Pesci_3776275,Via dei Pesci,3776275
-3776288,SW,3776288_SW_Via dei Pesci_Via dei Messapi_3776276,Via dei Messapi,3776276
-3776288,SW,3776288_SW_Via Dante_Via dei Pesci_3776275,Via dei Pesci,3776275
-3776288,NW,3776288_NW_Via dei Pesci_Via dei Messapi_3776276,Via dei Messapi,3776276
-3776288,NW,3776288_NW_Via Dante_Via dei Pesci_3776275,Via dei Pesci,3776275
-3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776271,Via Frangione,3776271
-3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776272,Via Frangione,3776272
-3776289,SW,3776289_SW_Via Sinni_Via Frangione_3776271,Via Frangione,3776271
-3776289,SW,3776289_SW_Via Sinni_Via Frangione_3776272,Via Frangione,3776272
-3776289,NW,3776289_NW_Via Sinni_Via Frangione_3776271,Via Frangione,3776271
-3776289,NW,3776289_NW_Via Sinni_Via Frangione_3776272,Via Frangione,3776272
-3776290,WW,3776290_WW_via Dante_via della Quercia_3776267,via della Quercia,3776267
-3776290,WW,3776290_WW_via della Quercia_via Dante_3776268,via Dante,3776268
-3776290,SW,3776290_SW_via Dante_via della Quercia_3776267,via della Quercia,3776267
-3776290,SW,3776290_SW_via della Quercia_via Dante_3776268,via Dante,3776268
-3776290,NW,3776290_NW_via Dante_via della Quercia_3776267,via della Quercia,3776267
-3776290,NW,3776290_NW_via della Quercia_via Dante_3776268,via Dante,3776268
-3776291,WW,3776291_WW_Cimitero_Piazza Matteotti_3776269,Piazza Matteotti,3776269
-3776291,WW,3776291_WW_Piazza Matteotti_Cimitero_3776270,Cimitero,3776270
-3776291,SW,3776291_SW_Cimitero_Piazza Matteotti_3776269,Piazza Matteotti,3776269
-3776291,SW,3776291_SW_Piazza Matteotti_Cimitero_3776270,Cimitero,3776270
-3776291,NW,3776291_NW_Cimitero_Piazza Matteotti_3776269,Piazza Matteotti,3776269
-3776291,NW,3776291_NW_Piazza Matteotti_Cimitero_3776270,Cimitero,3776270
-3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281,via Fermi,3776281
-3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948,Piazza S.Agnese,3784948
-3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281,via Fermi,3776281
-3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948,Piazza S.Agnese,3784948
-3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281,via Fermi,3776281
-3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948,Piazza S.Agnese,3784948
-3776293,WW,3776293_WW_Piazza Matteotti_via 1° maggio_3776265,via 1° maggio,3776265
-3776293,WW,3776293_WW_Via 1° maggio_Piazza Matteotti_3776266,Piazza Matteotti,3776266
-3776293,SW,3776293_SW_Piazza Matteotti_via 1° maggio_3776265,via 1° maggio,3776265
-3776293,SW,3776293_SW_Via 1° maggio_Piazza Matteotti_3776266,Piazza Matteotti,3776266
-3776293,NW,3776293_NW_Piazza Matteotti_via 1° maggio_3776265,via 1° maggio,3776265
-3776293,NW,3776293_NW_Via 1° maggio_Piazza Matteotti_3776266,Piazza Matteotti,3776266
-3776294,WW,3776294_WW_Via Dante_Via dei Pesci_3797252,Via dei Pesci,3797252
-3776294,WW,3776294_WW_Via dei Pesci_Via dei Messapi_3797255,Via dei Messapi,3797255
-3776294,SW,3776294_SW_Via Dante_Via dei Pesci_3797252,Via dei Pesci,3797252
-3776294,SW,3776294_SW_Via dei Pesci_Via dei Messapi_3797255,Via dei Messapi,3797255
-3776294,NW,3776294_NW_Via Dante_Via dei Pesci_3797252,Via dei Pesci,3797252
-3776294,NW,3776294_NW_Via dei Pesci_Via dei Messapi_3797255,Via dei Messapi,3797255
-3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280,Borgo Venusio,3776280
-3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279,Piazza Matteotti,3776279
-3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280,Borgo Venusio,3776280
-3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279,Piazza Matteotti,3776279
-3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280,Borgo Venusio,3776280
-3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279,Piazza Matteotti,3776279
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+0,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+1,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+2,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+3,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+4,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+5,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+6,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+7,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+8,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+9,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+10,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+11,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+12,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+13,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+14,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+15,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+16,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+17,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+18,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+19,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+20,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+21,Via Della Quercia,3652882
+3652883,WW,3652883_WW_Via Fermi_Via Della Quercia_3652882+22,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+0,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+1,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+2,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+3,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+4,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+5,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+6,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+7,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+8,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+9,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+10,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+11,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+12,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+13,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+14,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+15,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+16,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+17,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+18,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+19,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+20,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+21,Via Della Quercia,3652882
+3652883,SW,3652883_SW_Via Fermi_Via Della Quercia_3652882+22,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+0,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+1,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+2,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+3,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+4,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+5,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+6,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+7,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+8,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+9,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+10,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+11,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+12,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+13,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+14,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+15,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+16,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+17,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+18,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+19,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+20,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+21,Via Della Quercia,3652882
+3652883,NW,3652883_NW_Via Fermi_Via Della Quercia_3652882+22,Via Della Quercia,3652882
+3775826,WW,3775826_WW_Via Frangione_Via Fermi_3302783+0,Via Fermi,3302783
+3775826,WW,3775826_WW_Via Frangione_Via Fermi_3302783+1,Via Fermi,3302783
+3775826,WW,3775826_WW_Via Frangione_Via Fermi_3302783+2,Via Fermi,3302783
+3775826,WW,3775826_WW_Via Frangione_Via Fermi_3302783+3,Via Fermi,3302783
+3775826,WW,3775826_WW_Via Frangione_Via Fermi_3302783+4,Via Fermi,3302783
+3775826,WW,3775826_WW_Via Frangione_Via Fermi_3302783+5,Via Fermi,3302783
+3775826,WW,3775826_WW_Via Frangione_Via Fermi_3302783+6,Via Fermi,3302783
+3775826,WW,3775826_WW_Via Frangione_Via Fermi_3302783+7,Via Fermi,3302783
+3775826,WW,3775826_WW_Via Frangione_Via Fermi_3302783+8,Via Fermi,3302783
+3775826,WW,3775826_WW_Via Frangione_Via Fermi_3302783+9,Via Fermi,3302783
+3775826,WW,3775826_WW_Via Frangione_Via Fermi_3302783+10,Via Fermi,3302783
+3775826,WW,3775826_WW_Via Frangione_Via Fermi_3302783+11,Via Fermi,3302783
+3775826,WW,3775826_WW_Via Frangione_Via Fermi_3302783+12,Via Fermi,3302783
+3775826,WW,3775826_WW_Via Frangione_Via Fermi_3302783+13,Via Fermi,3302783
+3775826,WW,3775826_WW_Via Fermi_Via Frangione_3303207+0,Via Frangione,3303207
+3775826,WW,3775826_WW_Via Fermi_Via Frangione_3303207+1,Via Frangione,3303207
+3775826,WW,3775826_WW_Via Fermi_Via Frangione_3303207+2,Via Frangione,3303207
+3775826,WW,3775826_WW_Via Fermi_Via Frangione_3303207+3,Via Frangione,3303207
+3775826,WW,3775826_WW_Via Fermi_Via Frangione_3303207+4,Via Frangione,3303207
+3775826,WW,3775826_WW_Via Fermi_Via Frangione_3303207+5,Via Frangione,3303207
+3775826,WW,3775826_WW_Via Fermi_Via Frangione_3303207+6,Via Frangione,3303207
+3775826,WW,3775826_WW_Via Fermi_Via Frangione_3303207+7,Via Frangione,3303207
+3775826,WW,3775826_WW_Via Fermi_Via Frangione_3303207+8,Via Frangione,3303207
+3775826,WW,3775826_WW_Via Fermi_Via Frangione_3303207+9,Via Frangione,3303207
+3775826,WW,3775826_WW_Via Fermi_Via Frangione_3303207+10,Via Frangione,3303207
+3775826,WW,3775826_WW_Via Fermi_Via Frangione_3303207+11,Via Frangione,3303207
+3775826,WW,3775826_WW_Via Fermi_Via Frangione_3303207+12,Via Frangione,3303207
+3775826,WW,3775826_WW_Via Fermi_Via Frangione_3303207+13,Via Frangione,3303207
+3775826,WW,3775826_WW_Via Fermi_Via Frangione_3303207+14,Via Frangione,3303207
+3775826,SW,3775826_SW_Via Frangione_Via Fermi_3302783+0,Via Fermi,3302783
+3775826,SW,3775826_SW_Via Frangione_Via Fermi_3302783+1,Via Fermi,3302783
+3775826,SW,3775826_SW_Via Frangione_Via Fermi_3302783+2,Via Fermi,3302783
+3775826,SW,3775826_SW_Via Frangione_Via Fermi_3302783+3,Via Fermi,3302783
+3775826,SW,3775826_SW_Via Frangione_Via Fermi_3302783+4,Via Fermi,3302783
+3775826,SW,3775826_SW_Via Frangione_Via Fermi_3302783+5,Via Fermi,3302783
+3775826,SW,3775826_SW_Via Fermi_Via Frangione_3303207+0,Via Frangione,3303207
+3775826,SW,3775826_SW_Via Fermi_Via Frangione_3303207+1,Via Frangione,3303207
+3775826,SW,3775826_SW_Via Fermi_Via Frangione_3303207+2,Via Frangione,3303207
+3775826,SW,3775826_SW_Via Fermi_Via Frangione_3303207+3,Via Frangione,3303207
+3775826,SW,3775826_SW_Via Fermi_Via Frangione_3303207+4,Via Frangione,3303207
+3775826,SW,3775826_SW_Via Fermi_Via Frangione_3303207+5,Via Frangione,3303207
+3775826,SW,3775826_SW_Via Fermi_Via Frangione_3303207+6,Via Frangione,3303207
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+0,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+1,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+2,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+3,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+4,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+5,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+6,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+7,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+8,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+9,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+10,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+11,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+12,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+13,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+14,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+15,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+16,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+17,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+18,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+19,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+20,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+21,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Ospedale_Piazza Matteotti_3770093+22,Piazza Matteotti,3770093
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+0,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+1,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+2,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+3,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+4,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+5,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+6,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+7,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+8,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+9,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+10,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+11,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+12,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+13,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+14,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+15,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+16,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+17,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+18,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+19,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+20,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+21,Ospedale,3784123
+3776282,WW,3776282_WW_Piazza Matteotti_Ospedale_3784123+22,Ospedale,3784123
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+0,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+1,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+2,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+3,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+4,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+5,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+6,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+7,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+8,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+9,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+10,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+11,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+12,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+13,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+14,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+15,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+16,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+17,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+18,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+19,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+20,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+21,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Ospedale_Piazza Matteotti_3770093+22,Piazza Matteotti,3770093
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+0,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+1,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+2,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+3,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+4,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+5,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+6,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+7,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+8,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+9,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+10,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+11,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+12,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+13,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+14,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+15,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+16,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+17,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+18,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+19,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+20,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+21,Ospedale,3784123
+3776282,SW,3776282_SW_Piazza Matteotti_Ospedale_3784123+22,Ospedale,3784123
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+0,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+1,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+2,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+3,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+4,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+5,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+6,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+7,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+8,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+9,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+10,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+11,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+12,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+13,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+14,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+15,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+16,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+17,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+18,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+19,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+20,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+21,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Ospedale_Piazza Matteotti_3770093+22,Piazza Matteotti,3770093
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+0,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+1,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+2,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+3,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+4,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+5,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+6,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+7,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+8,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+9,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+10,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+11,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+12,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+13,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+14,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+15,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+16,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+17,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+18,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+19,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+20,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+21,Ospedale,3784123
+3776282,NW,3776282_NW_Piazza Matteotti_Ospedale_3784123+22,Ospedale,3784123
+3776285,WW,3776285_WW_Via Fermi_Via Frangione_3796928+0,Via Frangione,3796928
+3776285,WW,3776285_WW_Via Fermi_Via Frangione_3796928+1,Via Frangione,3796928
+3776285,WW,3776285_WW_Via Fermi_Via Frangione_3796928+2,Via Frangione,3796928
+3776285,WW,3776285_WW_Via Fermi_Via Frangione_3796928+3,Via Frangione,3796928
+3776285,WW,3776285_WW_Via Fermi_Via Frangione_3796928+4,Via Frangione,3796928
+3776285,WW,3776285_WW_Via Fermi_Via Frangione_3796928+5,Via Frangione,3796928
+3776285,WW,3776285_WW_Via Fermi_Via Frangione_3796928+6,Via Frangione,3796928
+3776285,WW,3776285_WW_Via Fermi_Via Frangione_3796928+7,Via Frangione,3796928
+3776285,WW,3776285_WW_Via Fermi_Via Frangione_3796928+8,Via Frangione,3796928
+3776285,WW,3776285_WW_Via Fermi_Via Frangione_3796928+9,Via Frangione,3796928
+3776285,WW,3776285_WW_Via Fermi_Via Frangione_3796928+10,Via Frangione,3796928
+3776285,WW,3776285_WW_Via Fermi_Via Frangione_3796928+11,Via Frangione,3796928
+3776285,WW,3776285_WW_Via Fermi_Via Frangione_3796928+12,Via Frangione,3796928
+3776285,WW,3776285_WW_Via Fermi_Via Frangione_3796928+13,Via Frangione,3796928
+3776285,WW,3776285_WW_Via Fermi_Via Frangione_3796928+14,Via Frangione,3796928
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+0,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+1,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+2,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+3,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+4,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+5,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+6,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+7,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+8,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+9,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+10,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+11,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+12,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+13,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+14,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+15,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+16,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+17,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+18,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+19,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+20,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+21,Via Fermi,3796929
+3776285,WW,3776285_WW_Via Frangione_Via Fermi_3796929+22,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Fermi_Via Frangione_3796928+0,Via Frangione,3796928
+3776285,SW,3776285_SW_Via Fermi_Via Frangione_3796928+1,Via Frangione,3796928
+3776285,SW,3776285_SW_Via Fermi_Via Frangione_3796928+2,Via Frangione,3796928
+3776285,SW,3776285_SW_Via Fermi_Via Frangione_3796928+3,Via Frangione,3796928
+3776285,SW,3776285_SW_Via Fermi_Via Frangione_3796928+4,Via Frangione,3796928
+3776285,SW,3776285_SW_Via Fermi_Via Frangione_3796928+5,Via Frangione,3796928
+3776285,SW,3776285_SW_Via Fermi_Via Frangione_3796928+6,Via Frangione,3796928
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+0,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+1,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+2,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+3,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+4,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+5,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+6,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+7,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+8,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+9,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+10,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+11,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+12,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+13,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+14,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+15,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+16,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+17,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+18,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+19,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+20,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+21,Via Fermi,3796929
+3776285,SW,3776285_SW_Via Frangione_Via Fermi_3796929+22,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Fermi_Via Frangione_3796928+0,Via Frangione,3796928
+3776285,NW,3776285_NW_Via Fermi_Via Frangione_3796928+1,Via Frangione,3796928
+3776285,NW,3776285_NW_Via Fermi_Via Frangione_3796928+2,Via Frangione,3796928
+3776285,NW,3776285_NW_Via Fermi_Via Frangione_3796928+3,Via Frangione,3796928
+3776285,NW,3776285_NW_Via Fermi_Via Frangione_3796928+4,Via Frangione,3796928
+3776285,NW,3776285_NW_Via Fermi_Via Frangione_3796928+5,Via Frangione,3796928
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+0,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+1,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+2,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+3,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+4,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+5,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+6,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+7,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+8,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+9,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+10,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+11,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+12,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+13,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+14,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+15,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+16,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+17,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+18,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+19,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+20,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+21,Via Fermi,3796929
+3776285,NW,3776285_NW_Via Frangione_Via Fermi_3796929+22,Via Fermi,3796929
+3776286,WW,3776286_WW_Via Fermi_Via Della Quercia_3770563+0,Via Della Quercia,3770563
+3776286,WW,3776286_WW_Via Fermi_Via Della Quercia_3770563+1,Via Della Quercia,3770563
+3776286,WW,3776286_WW_Via Fermi_Via Della Quercia_3770563+2,Via Della Quercia,3770563
+3776286,WW,3776286_WW_Via Fermi_Via Della Quercia_3770563+3,Via Della Quercia,3770563
+3776286,WW,3776286_WW_Via Fermi_Via Della Quercia_3770563+4,Via Della Quercia,3770563
+3776286,WW,3776286_WW_Via Fermi_Via Della Quercia_3770563+5,Via Della Quercia,3770563
+3776286,WW,3776286_WW_Via Fermi_Via Della Quercia_3770563+6,Via Della Quercia,3770563
+3776286,WW,3776286_WW_Via Fermi_Via Della Quercia_3770563+7,Via Della Quercia,3770563
+3776286,WW,3776286_WW_Via Fermi_Via Della Quercia_3770563+8,Via Della Quercia,3770563
+3776286,WW,3776286_WW_Via Fermi_Via Della Quercia_3770563+9,Via Della Quercia,3770563
+3776286,WW,3776286_WW_Via Fermi_Via Della Quercia_3770563+10,Via Della Quercia,3770563
+3776286,WW,3776286_WW_Via Fermi_Via Della Quercia_3770563+11,Via Della Quercia,3770563
+3776286,WW,3776286_WW_Via Fermi_Via Della Quercia_3770563+12,Via Della Quercia,3770563
+3776286,WW,3776286_WW_Via Fermi_Via Della Quercia_3770563+13,Via Della Quercia,3770563
+3776286,WW,3776286_WW_Via Fermi_Via Della Quercia_3770563+14,Via Della Quercia,3770563
+3776286,WW,3776286_WW_Vie Della Quercia_Via Fermi_3790880+0,Via Fermi,3790880
+3776286,WW,3776286_WW_Vie Della Quercia_Via Fermi_3790880+1,Via Fermi,3790880
+3776286,WW,3776286_WW_Vie Della Quercia_Via Fermi_3790880+2,Via Fermi,3790880
+3776286,WW,3776286_WW_Vie Della Quercia_Via Fermi_3790880+3,Via Fermi,3790880
+3776286,WW,3776286_WW_Vie Della Quercia_Via Fermi_3790880+4,Via Fermi,3790880
+3776286,WW,3776286_WW_Vie Della Quercia_Via Fermi_3790880+5,Via Fermi,3790880
+3776286,WW,3776286_WW_Vie Della Quercia_Via Fermi_3790880+6,Via Fermi,3790880
+3776286,WW,3776286_WW_Vie Della Quercia_Via Fermi_3790880+7,Via Fermi,3790880
+3776286,WW,3776286_WW_Vie Della Quercia_Via Fermi_3790880+8,Via Fermi,3790880
+3776286,WW,3776286_WW_Vie Della Quercia_Via Fermi_3790880+9,Via Fermi,3790880
+3776286,WW,3776286_WW_Vie Della Quercia_Via Fermi_3790880+10,Via Fermi,3790880
+3776286,WW,3776286_WW_Vie Della Quercia_Via Fermi_3790880+11,Via Fermi,3790880
+3776286,WW,3776286_WW_Vie Della Quercia_Via Fermi_3790880+12,Via Fermi,3790880
+3776286,WW,3776286_WW_Vie Della Quercia_Via Fermi_3790880+13,Via Fermi,3790880
+3776286,WW,3776286_WW_Vie Della Quercia_Via Fermi_3790880+14,Via Fermi,3790880
+3776286,SW,3776286_SW_Via Fermi_Via Della Quercia_3770563+0,Via Della Quercia,3770563
+3776286,SW,3776286_SW_Via Fermi_Via Della Quercia_3770563+1,Via Della Quercia,3770563
+3776286,SW,3776286_SW_Via Fermi_Via Della Quercia_3770563+2,Via Della Quercia,3770563
+3776286,SW,3776286_SW_Via Fermi_Via Della Quercia_3770563+3,Via Della Quercia,3770563
+3776286,SW,3776286_SW_Via Fermi_Via Della Quercia_3770563+4,Via Della Quercia,3770563
+3776286,SW,3776286_SW_Via Fermi_Via Della Quercia_3770563+5,Via Della Quercia,3770563
+3776286,SW,3776286_SW_Via Fermi_Via Della Quercia_3770563+6,Via Della Quercia,3770563
+3776286,SW,3776286_SW_Vie Della Quercia_Via Fermi_3790880+0,Via Fermi,3790880
+3776286,SW,3776286_SW_Vie Della Quercia_Via Fermi_3790880+1,Via Fermi,3790880
+3776286,SW,3776286_SW_Vie Della Quercia_Via Fermi_3790880+2,Via Fermi,3790880
+3776286,SW,3776286_SW_Vie Della Quercia_Via Fermi_3790880+3,Via Fermi,3790880
+3776286,SW,3776286_SW_Vie Della Quercia_Via Fermi_3790880+4,Via Fermi,3790880
+3776286,SW,3776286_SW_Vie Della Quercia_Via Fermi_3790880+5,Via Fermi,3790880
+3776286,SW,3776286_SW_Vie Della Quercia_Via Fermi_3790880+6,Via Fermi,3790880
+3776286,NW,3776286_NW_Via Fermi_Via Della Quercia_3770563+0,Via Della Quercia,3770563
+3776286,NW,3776286_NW_Via Fermi_Via Della Quercia_3770563+1,Via Della Quercia,3770563
+3776286,NW,3776286_NW_Via Fermi_Via Della Quercia_3770563+2,Via Della Quercia,3770563
+3776286,NW,3776286_NW_Via Fermi_Via Della Quercia_3770563+3,Via Della Quercia,3770563
+3776286,NW,3776286_NW_Via Fermi_Via Della Quercia_3770563+4,Via Della Quercia,3770563
+3776286,NW,3776286_NW_Via Fermi_Via Della Quercia_3770563+5,Via Della Quercia,3770563
+3776286,NW,3776286_NW_Vie Della Quercia_Via Fermi_3790880+0,Via Fermi,3790880
+3776286,NW,3776286_NW_Vie Della Quercia_Via Fermi_3790880+1,Via Fermi,3790880
+3776286,NW,3776286_NW_Vie Della Quercia_Via Fermi_3790880+2,Via Fermi,3790880
+3776286,NW,3776286_NW_Vie Della Quercia_Via Fermi_3790880+3,Via Fermi,3790880
+3776286,NW,3776286_NW_Vie Della Quercia_Via Fermi_3790880+4,Via Fermi,3790880
+3776286,NW,3776286_NW_Vie Della Quercia_Via Fermi_3790880+5,Via Fermi,3790880
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776271+0,Via Frangione,3776271
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776271+1,Via Frangione,3776271
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776271+2,Via Frangione,3776271
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776271+3,Via Frangione,3776271
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776271+4,Via Frangione,3776271
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776271+5,Via Frangione,3776271
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776271+6,Via Frangione,3776271
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776271+7,Via Frangione,3776271
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776271+8,Via Frangione,3776271
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776271+9,Via Frangione,3776271
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776271+10,Via Frangione,3776271
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776271+11,Via Frangione,3776271
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776271+12,Via Frangione,3776271
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776272+0,Via Frangione,3776272
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776272+1,Via Frangione,3776272
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776272+2,Via Frangione,3776272
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776272+3,Via Frangione,3776272
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776272+4,Via Frangione,3776272
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776272+5,Via Frangione,3776272
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776272+6,Via Frangione,3776272
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776272+7,Via Frangione,3776272
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776272+8,Via Frangione,3776272
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776272+9,Via Frangione,3776272
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776272+10,Via Frangione,3776272
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776272+11,Via Frangione,3776272
+3776289,WW,3776289_WW_Via Sinni_Via Frangione_3776272+12,Via Frangione,3776272
+3776289,SW,3776289_SW_Via Sinni_Via Frangione_3776271+0,Via Frangione,3776271
+3776289,SW,3776289_SW_Via Sinni_Via Frangione_3776271+1,Via Frangione,3776271
+3776289,SW,3776289_SW_Via Sinni_Via Frangione_3776271+2,Via Frangione,3776271
+3776289,SW,3776289_SW_Via Sinni_Via Frangione_3776271+3,Via Frangione,3776271
+3776289,SW,3776289_SW_Via Sinni_Via Frangione_3776271+4,Via Frangione,3776271
+3776289,SW,3776289_SW_Via Sinni_Via Frangione_3776272+0,Via Frangione,3776272
+3776289,SW,3776289_SW_Via Sinni_Via Frangione_3776272+1,Via Frangione,3776272
+3776289,SW,3776289_SW_Via Sinni_Via Frangione_3776272+2,Via Frangione,3776272
+3776289,SW,3776289_SW_Via Sinni_Via Frangione_3776272+3,Via Frangione,3776272
+3776289,SW,3776289_SW_Via Sinni_Via Frangione_3776272+4,Via Frangione,3776272
+3776289,NW,3776289_NW_Via Sinni_Via Frangione_3776271+0,Via Frangione,3776271
+3776289,NW,3776289_NW_Via Sinni_Via Frangione_3776271+1,Via Frangione,3776271
+3776289,NW,3776289_NW_Via Sinni_Via Frangione_3776271+2,Via Frangione,3776271
+3776289,NW,3776289_NW_Via Sinni_Via Frangione_3776271+3,Via Frangione,3776271
+3776289,NW,3776289_NW_Via Sinni_Via Frangione_3776271+4,Via Frangione,3776271
+3776289,NW,3776289_NW_Via Sinni_Via Frangione_3776272+0,Via Frangione,3776272
+3776289,NW,3776289_NW_Via Sinni_Via Frangione_3776272+1,Via Frangione,3776272
+3776289,NW,3776289_NW_Via Sinni_Via Frangione_3776272+2,Via Frangione,3776272
+3776289,NW,3776289_NW_Via Sinni_Via Frangione_3776272+3,Via Frangione,3776272
+3776289,NW,3776289_NW_Via Sinni_Via Frangione_3776272+4,Via Frangione,3776272
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+0,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+1,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+2,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+3,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+4,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+5,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+6,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+7,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+8,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+9,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+10,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+11,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+12,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+13,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+14,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+15,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+16,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+17,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+18,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+19,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+20,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+21,via della Quercia,3776267
+3776290,WW,3776290_WW_via Dante_via della Quercia_3776267+22,via della Quercia,3776267
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+0,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+1,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+2,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+3,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+4,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+5,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+6,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+7,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+8,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+9,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+10,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+11,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+12,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+13,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+14,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+15,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+16,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+17,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+18,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+19,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+20,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+21,via Dante,3776268
+3776290,WW,3776290_WW_via della Quercia_via Dante_3776268+22,via Dante,3776268
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+0,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+1,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+2,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+3,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+4,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+5,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+6,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+7,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+8,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+9,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+10,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+11,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+12,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+13,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+14,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+15,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+16,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+17,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+18,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+19,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+20,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+21,via della Quercia,3776267
+3776290,SW,3776290_SW_via Dante_via della Quercia_3776267+22,via della Quercia,3776267
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+0,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+1,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+2,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+3,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+4,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+5,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+6,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+7,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+8,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+9,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+10,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+11,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+12,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+13,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+14,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+15,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+16,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+17,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+18,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+19,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+20,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+21,via Dante,3776268
+3776290,SW,3776290_SW_via della Quercia_via Dante_3776268+22,via Dante,3776268
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+0,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+1,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+2,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+3,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+4,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+5,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+6,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+7,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+8,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+9,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+10,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+11,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+12,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+13,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+14,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+15,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+16,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+17,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+18,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+19,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+20,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+21,via della Quercia,3776267
+3776290,NW,3776290_NW_via Dante_via della Quercia_3776267+22,via della Quercia,3776267
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+0,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+1,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+2,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+3,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+4,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+5,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+6,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+7,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+8,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+9,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+10,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+11,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+12,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+13,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+14,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+15,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+16,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+17,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+18,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+19,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+20,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+21,via Dante,3776268
+3776290,NW,3776290_NW_via della Quercia_via Dante_3776268+22,via Dante,3776268
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+0,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+1,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+2,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+3,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+4,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+5,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+6,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+7,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+8,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+9,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+10,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+11,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+12,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+13,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+14,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+15,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+16,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+17,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+18,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+19,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+20,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+21,via Fermi,3776281
+3776292,WW,3776292_WW_Piazza S.Agnese_via Fermi_3776281+22,via Fermi,3776281
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+0,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+1,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+2,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+3,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+4,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+5,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+6,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+7,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+8,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+9,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+10,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+11,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+12,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+13,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+14,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+15,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+16,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+17,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+18,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+19,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+20,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+21,Piazza S.Agnese,3784948
+3776292,WW,3776292_WW_via Fermi_Piazza S.Agnese_3784948+22,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+0,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+1,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+2,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+3,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+4,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+5,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+6,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+7,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+8,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+9,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+10,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+11,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+12,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+13,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+14,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+15,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+16,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+17,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+18,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+19,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+20,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+21,via Fermi,3776281
+3776292,SW,3776292_SW_Piazza S.Agnese_via Fermi_3776281+22,via Fermi,3776281
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+0,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+1,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+2,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+3,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+4,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+5,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+6,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+7,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+8,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+9,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+10,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+11,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+12,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+13,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+14,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+15,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+16,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+17,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+18,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+19,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+20,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+21,Piazza S.Agnese,3784948
+3776292,SW,3776292_SW_via Fermi_Piazza S.Agnese_3784948+22,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+0,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+1,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+2,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+3,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+4,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+5,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+6,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+7,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+8,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+9,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+10,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+11,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+12,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+13,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+14,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+15,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+16,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+17,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+18,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+19,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+20,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+21,via Fermi,3776281
+3776292,NW,3776292_NW_Piazza S.Agnese_via Fermi_3776281+22,via Fermi,3776281
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+0,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+1,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+2,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+3,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+4,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+5,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+6,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+7,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+8,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+9,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+10,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+11,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+12,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+13,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+14,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+15,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+16,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+17,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+18,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+19,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+20,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+21,Piazza S.Agnese,3784948
+3776292,NW,3776292_NW_via Fermi_Piazza S.Agnese_3784948+22,Piazza S.Agnese,3784948
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+0,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+1,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+2,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+3,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+4,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+5,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+6,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+7,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+8,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+9,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+10,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+11,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+12,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+13,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+14,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+15,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+16,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+17,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+18,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+19,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+20,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+21,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Piazza Matteotti_Borgo Venusio_3776280+22,Borgo Venusio,3776280
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+0,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+1,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+2,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+3,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+4,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+5,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+6,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+7,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+8,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+9,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+10,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+11,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+12,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+13,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+14,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+15,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+16,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+17,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+18,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+19,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+20,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+21,Piazza Matteotti,3776279
+3776295,WW,3776295_WW_Borgo Venusio_Piazza Matteotti_3776279+22,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+0,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+1,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+2,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+3,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+4,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+5,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+6,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+7,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+8,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+9,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+10,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+11,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+12,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+13,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+14,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+15,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+16,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+17,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+18,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+19,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+20,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+21,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Piazza Matteotti_Borgo Venusio_3776280+22,Borgo Venusio,3776280
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+0,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+1,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+2,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+3,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+4,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+5,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+6,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+7,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+8,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+9,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+10,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+11,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+12,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+13,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+14,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+15,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+16,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+17,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+18,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+19,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+20,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+21,Piazza Matteotti,3776279
+3776295,SW,3776295_SW_Borgo Venusio_Piazza Matteotti_3776279+22,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+0,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+1,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+2,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+3,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+4,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+5,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+6,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+7,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+8,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+9,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+10,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+11,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+12,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+13,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+14,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+15,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+16,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+17,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+18,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+19,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+20,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+21,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Piazza Matteotti_Borgo Venusio_3776280+22,Borgo Venusio,3776280
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+0,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+1,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+2,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+3,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+4,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+5,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+6,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+7,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+8,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+9,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+10,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+11,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+12,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+13,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+14,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+15,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+16,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+17,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+18,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+19,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+20,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+21,Piazza Matteotti,3776279
+3776295,NW,3776295_NW_Borgo Venusio_Piazza Matteotti_3776279+22,Piazza Matteotti,3776279
