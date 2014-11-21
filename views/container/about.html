@@ -5,7 +5,7 @@
     <title><%= pageTitle %> – UlmApi.de</title>
     <meta name="description" content="LiveMap">
     <meta name="author" content="UlmApi.de">
-    
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
     <!--[if lt IE 9]>
@@ -13,16 +13,16 @@
     <![endif]-->
     <link href="/css/bootstrap-1.1.1.min.css" rel="stylesheet">
     <link href="/css/livemap.css" rel="stylesheet">
-    
+
     <script type="text/javascript" src="/js/jquery.min.js"></script>
-    
+
     <% if (type == "map") { %>
 	<link rel="stylesheet" href="/css/leaflet.css" />
 	<script type="text/javascript" src="/js/leaflet.js"></script>
 	<script type="text/javascript" src="/socket.io/socket.io.js"></script>
 	<script type="text/javascript" src="/js/livemap.js"></script>
     <% } %>
-    
+
   </head>
 
   <body>
@@ -30,7 +30,7 @@
     <div class="topbar">
       <div class="fill">
         <div class="container">
-          <h3><a href="/map">Pavia LiveMap</a></h3>
+          <h3><a href="/map">Matera LiveMap</a></h3>
           <ul>
             <li <% if (type == "map") { %>class="active" <% } %>><a href="/map">Map</a></li>
             <li <% if (type == "about") { %>class="active" <% } %>><a href="/about">About</a></li>
@@ -39,27 +39,18 @@
         </div>
       </div>
     </div>
-    
+
     <div class="container">
      <div class="hero-unit">
-        <h1>LiveMap adapted by Piersoft</h1>
-        <p>Real-time visualization of public transportation in the City of Pavia, Italy.</p>
+        <h1>LiveMap</h1>
+        <p>Real-time visualization of public transportation in the City of Matera, Italy.</p>
       </div>
 
       <!-- Example row of columns -->
       <div class="row">
         <div class="span11">
           <h2>What is this?</h2>
-          <p>This application visualizes public transportation vehicles moving through the City of Pavia, Italy. Since the transport authority does not provide
-          a useable data feed, we decided to scrape the timetable data and converted them into the <a href="https://code.google.com/intl/de-DE/transit/spec/transit_feed_specification.html">
-          GTFS</a> format. GTFS files are provided by <b>@SimoneCortesi</b>. We then implemented a simple GTFS parser which emulates the emission of real time event information (though it's based on the static data
-          we liberated from their timetable prison. We hope to eventually switch the backend event emitter to realtime data in the future. If anybody out there
-          knows someone working at the Stadtwerke Ulm, please prod them a little *nudge nudge*).
-          The events emitted by the GTFS parser are consumed by the web application, which renders a map and moves markers according to the estimated location of each vehicle.</p>
-          <h2>Why?</h2>
-          <p>This application is a contribution to the Node Knockout 2011 by <a href="http://ulmapi.de/">UlmApi.de</a> members.
-          We implemented this proof-of-concept prototype within two days. It is intended to demonstrate what is possible by mashing cool technology and open data
-          together, shaking it well and letting it boil for a while. It might also prove relaxing to watch. Except if you're using Firefox.</p>
+          <p>Demo for gtfs data produced by https://github.com/unmonastery/GtfsMaker</p>
         </div>
         <div class="span5">
           <h2>Technologies used</h2>
@@ -78,7 +69,7 @@
        </div>
       </div>
       <div class="row">
-        <div class="span11">      
+        <div class="span11">
           <h2>Team</h2>
 			 <dl>
 		        <dt>Michael Müller</dt>
@@ -105,7 +96,7 @@
           <a onclick="javascript:$('#warning').hide();" class="close" href="#">×</a>
         </div>
         <div class="modal-body">
-          <p>Please keep in mind that Ulm is on UTC+2, and it's not quite Berlin in terms of nightly public transportation service. On this map, we let the night buses run every night instead of only at the weekends, but still... Just check back later during the day to see the magic, or <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Ulmer_M%C3%BCnster">read a bit about that ridiculously ginormous 
+          <p>Please keep in mind that Ulm is on UTC+2, and it's not quite Berlin in terms of nightly public transportation service. On this map, we let the night buses run every night instead of only at the weekends, but still... Just check back later during the day to see the magic, or <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Ulmer_M%C3%BCnster">read a bit about that ridiculously ginormous
           church</a> we have over here.</p>
         </div>
         <div class="modal-footer">
